@@ -39,6 +39,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) and the in-app [/contribute/](https://ne
 | [diegomartinezh](https://github.com/diegomartinezh) | API |
 | [PauLAanDReEa-Ai](https://github.com/PauLAanDReEa-Ai) | Tokens |
 | [galarp2005](https://github.com/galarp2005) | Editor |
+| [itzy-4Qunn7](https://github.com/itzy-4Qunn7) | About us |
 
 ## Redeploy Pages
 
