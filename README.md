@@ -41,6 +41,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) and the in-app [/contribute/](https://ne
 | [galarp2005](https://github.com/galarp2005) | Editor |
 | [itzy-4Qunn7](https://github.com/itzy-4Qunn7) | About us |
 | [medinaxd29](https://github.com/medinaxd29) | About story | 
+| [Yassin-Skirej](https://github.com/Yassin-Skirej) | Gallery |
 
 ## Redeploy Pages
 
