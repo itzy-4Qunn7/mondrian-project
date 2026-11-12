@@ -40,6 +40,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) and the in-app [/contribute/](https://ne
 | [PauLAanDReEa-Ai](https://github.com/PauLAanDReEa-Ai) | Tokens |
 | [galarp2005](https://github.com/galarp2005) | Editor |
 | [itzy-4Qunn7](https://github.com/itzy-4Qunn7) | About us |
+| [medinaxd29](https://github.com/medinaxd29) | About story | 
 
 ## Redeploy Pages
 
