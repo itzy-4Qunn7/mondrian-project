@@ -37,6 +37,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) and the in-app [/contribute/](https://ne
 | Person | Role |
 | --- | --- |
 | [diegomartinezh](https://github.com/diegomartinezh) | API |
+| [PauLAanDReEa-Ai](https://github.com/PauLAanDReEa-Ai) | Tokens |
 
 ## Redeploy Pages
 
